@@ -1,0 +1,28 @@
+/* This is a CSS file */
+h1{
+  font-family: 'Poppins';
+}
+p{
+  font-family: 'Poppins';
+  font-weight: 400;
+}
+#cidade{
+  width: 80%;
+  margin: auto;
+  border: 1px solid rgba(0,0,0,0.2)
+}
+.previsao{
+  font-weight: 200; c   
+}
+#button{
+  width: 80px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'Poppins';
+  font-weight: 400;
+  background:#002FCB;
+  border-radius: 5px;
+}
